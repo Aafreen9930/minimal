@@ -1,6 +1,16 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Aafreen Khan </p>
+logo: /assets/img/logo.jpg
+
+description:
+  <p align="center">
+  <a href="https://github.com/Aafreen9930">GitHub</a>
+  
+  <br>   
+  I'm studying with upgrad in Masters in ML & AI.
+  I have also worked as an executive in Hexaware Technologies for 3 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
